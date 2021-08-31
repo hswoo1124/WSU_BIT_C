@@ -1,0 +1,15 @@
+﻿  sample.c
+c:\users\82102\desktop\동고비\20190705\20190705\sample.c(62): warning C4047: '=': 'int **'의 간접 참조 수준이 'int (*)[3]'과(와) 다릅니다.
+c:\users\82102\desktop\동고비\20190705\20190705\sample.c(64): warning C4101: 'p1' :참조되지 않은 지역 변수입니다.
+c:\users\82102\desktop\동고비\20190705\20190705\sample.c(89): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+c:\users\82102\desktop\동고비\20190705\20190705\sample.c(90): error C2065: 'foo2': 선언되지 않은 식별자입니다.
+c:\users\82102\desktop\동고비\20190705\20190705\sample.c(90): warning C4047: '=': 'void (__cdecl *)(int,char)'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\82102\desktop\동고비\20190705\20190705\sample.c(93): warning C4013: 'foo2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82102\desktop\동고비\20190705\20190705\sample.c(99): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82102\desktop\동고비\20190705\20190705\sample.c(104): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82102\desktop\동고비\20190705\20190705\sample.c(95): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+c:\users\82102\desktop\동고비\20190705\20190705\sample.c(129): error C2371: 'foo2': 재정의. 기본 형식이 다릅니다.
+c:\users\82102\desktop\동고비\20190705\20190705\sample.c(155): error C2371: 'p': 재정의. 기본 형식이 다릅니다.
+  c:\users\82102\desktop\동고비\20190705\20190705\sample.c(153): note: 'p' 선언을 참조하십시오.
+  start.c
+  코드를 생성하고 있습니다...
